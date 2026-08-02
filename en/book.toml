@@ -10,9 +10,8 @@ start-active = false     # show the cursor immediately on page load
 cursor-color = "#e46876" # any CSS color
 code-blocks = true       # enable vi editing in editable code blocks
 
-[output.html.playpen]
+[output.html.playground]
 editable = true
-editor = "ace"
 
 [output.html.fold]
 enable = true
