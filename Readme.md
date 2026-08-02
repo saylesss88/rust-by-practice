@@ -19,6 +19,9 @@
 
 This book was designed for easily diving into and getting skilled with Rust It's very easy to use. All you need to do is to make each exercise compile without ERRORS and Panics!
 
+> **This is a fork of [rust-by-practice](https://github.com/rustlings/rust-by-practice) 
+> with [mdbook-vi](https://github.com/yourusername/mdbook-vi) enabled for 
+> vim-style navigation and code block editing.**
 
 ## Reading online
 
